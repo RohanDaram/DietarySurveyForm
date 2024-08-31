@@ -1,2 +1,2 @@
 # DietarySurveyForm
-A Java Program that utilizes the Java Swing framework to display a GUI popup which consists of various health and diet related questions and writes them to a csv file.
+Developed an interactive and user-friendly GUI application using Java Swing Framework for collecting diet and health-related information for analytical purposes. Utilized advanced features such as various Layout Managers, Frame components, GUI text fields, radio buttons, checkboxes, spinners, and sliders to capture personal data, including walking routines, dietary preferences, and demographic information. Implemented the use of persistent storage for data management and analysis, including BMI calculation.
